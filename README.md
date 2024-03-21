@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
-* Student Group ID: Not-for-now
+* Student Name: Nguyễn Phan Gia Bảo 
+* Student ID: BI12-048
+* Student Group ID: ...
